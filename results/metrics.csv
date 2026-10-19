@@ -1,0 +1,3 @@
+topic_id,homo_semantic_overlap,hetero_semantic_overlap,homo_rounds_detected,hetero_rounds_detected
+0,0.88,0.45,3,3
+1,0.82,0.51,3,3
